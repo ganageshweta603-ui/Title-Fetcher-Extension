@@ -1,0 +1,17 @@
+body {
+            width: 250px;
+            font-family: Arial, sans-serif;
+            padding: 15px;
+        }
+        #btn {
+            padding: 8px 14px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        #result {
+            margin-top: 15px;
+            font-weight: bold;
+        }
